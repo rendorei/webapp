@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="https://www.cloudbees.com/sites/default/files/Jenkins_8.png">
+    <link rel="icon" href="https://cdn.imgbin.com/11/3/7/imgbin-computer-icons-jenkins-others-9wHYnpGBGeEhbcVch3izh1a0Y.jpg">
 
     <title>DevOps Project</title>
 
