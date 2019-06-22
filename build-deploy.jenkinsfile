@@ -5,10 +5,7 @@ def git_repo = "https://github.com/rendorei/webapp.git"
 def war_home = "workspace/webapp_project"
 
 node('slave1'){
-   stage ('Pull'){
-       triggers { 
-            pollSCM('* * * * *')
-             }
+   stage ('Pull'){       
        cleanWs()
        git "${git_repo}"
    }
