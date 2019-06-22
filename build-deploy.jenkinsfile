@@ -2,11 +2,11 @@ def tomcat_home = "/opt/tomcat"
 def git_repo = "https://github.com/rendorei/webapp.git"
 def war_home = "workspace/webapp_project"
 
-
 node('slave1'){
     triggers { 
             pollSCM('* * * * *')
              }
+    stages{
    stage ('Pull'){
        cleanWs()
        git "${git_repo}"
@@ -23,4 +23,5 @@ node('slave1'){
        azureWebAppPublish appName: 'alex-project-webapp', azureCredentialsId: 'azure_service_principal', filePath: 'WebApp.war', publishType: 'file', resourceGroup: 'jenkins', slotName: '', sourceDirectory: '/home/jenkins/workspace/webapp_project/target', targetDirectory: '${tomcat_home}/webapps'
        }   
    }
+}
 }
