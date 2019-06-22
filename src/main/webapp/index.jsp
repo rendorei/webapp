@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon"
-        href="https://wiki.jenkins.io/download/attachments/2916393/headshot.png?version=1&modificationDate=1302753947000&api=v2" target="_blank">
+        href="https://wiki.jenkins.io/download/attachments/2916393/headshot.png?version=1&modificationDate=1302753947000&api=v2">
 
     <title>DevOps Project</title>
 
@@ -28,7 +28,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand"
-                    href="https://www.google.com/search?rlz=1C1SQJL_ruUA853UA853&ei=0IIOXdveKbH4qwGVrqDgAw&q=simple+ci%2Fcd+pipeline&oq=simple+ci%2F&gs_l=psy-ab.3.0.0i203l2j0i22i30l8.1502.6228..7675...3.0..0.177.1181.11j2......0....1..gws-wiz.......0i71j35i39j0j0i131j0i67.GSHR_ZwKgXs">Simple
+                    href="https://www.google.com/search?rlz=1C1SQJL_ruUA853UA853&ei=0IIOXdveKbH4qwGVrqDgAw&q=simple+ci%2Fcd+pipeline&oq=simple+ci%2F&gs_l=psy-ab.3.0.0i203l2j0i22i30l8.1502.6228..7675...3.0..0.177.1181.11j2......0....1..gws-wiz.......0i71j35i39j0j0i131j0i67.GSHR_ZwKgXs" target="_blank">Simple
                     CI/CD pipeline</a>
             </div>
         </div>
@@ -53,8 +53,8 @@
         </div>
         <div class="col-md-4">
             <h2>Jenkins</h2>
-            <p><a class="img-fluid" href="http://jenkins-alex.westeurope.cloudapp.azure.com:8080" target="_blank" role="button"><img
-                        src="https://xebialabs.com/wp-content/uploads/2018/10/Jenkins-x-logo-1.jpg"
+            <p><a class="img-fluid" href="http://jenkins-alex.westeurope.cloudapp.azure.com:8080" target="_blank"
+                    role="button"><img src="https://xebialabs.com/wp-content/uploads/2018/10/Jenkins-x-logo-1.jpg"
                         width="220" height="220"></a></p>
         </div>
         <div class="col-md-4">
