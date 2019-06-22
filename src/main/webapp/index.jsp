@@ -67,9 +67,9 @@
 
     <hr>
 
-    <footer>
+  <!--  <footer>
         <p>&copy; Oleksandr Krainiuk</p>
-    </footer>
+    </footer>-->
 </div> <!-- /container -->
 
 
