@@ -61,7 +61,7 @@
             <h2>DevAzure</h2>
             <p><a class="img-fluid" href="https://dev.azure.com/rendoreiops" target="_blank" role="button"><img
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTZ8BntngUMnLzTvXvvWp80eL4XslDNExlWj2gyKJR5SM8_hLr"
-                        width="200" height="200"></a></p>
+                        width="180" height="180"></a></p>
 
         </div>
 
