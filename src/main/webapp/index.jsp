@@ -10,7 +10,7 @@
 
     <title>DevOps Project</title>
 
-    <src href="jumbotron.css" rel="stylesheet">
+    <link src="jumbotron.css" rel="stylesheet">
     
 </head>
 
