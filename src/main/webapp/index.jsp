@@ -39,7 +39,7 @@
         <div class="container">
             <h1>Hello World</h1>
             <p><!----->></p>
-            <p><a class="btn btn-primary btn-lg"href="https://docs.google.com/presentation/d/15k94zxIowukgDzbISTBI6VN7ZfzskTUk4i4SO7yGUH0/edit?usp=sharing" target="_blank" role="button">Presentation &raquo;</a></p>
+            <p><a class="btn btn-primary btn-lg" href="https://docs.google.com/presentation/d/15k94zxIowukgDzbISTBI6VN7ZfzskTUk4i4SO7yGUH0/edit?usp=sharing" target="_blank" role="button">Presentation &raquo;</a></p>
         </div>
     </div>
 
