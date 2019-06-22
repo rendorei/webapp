@@ -52,8 +52,10 @@
                         height="200"></a></p>
         </div>
         <div class="col-md-4">
-            <h2>Heading</h2>
-            <p>Some TEXT </p>
+            <h2>Jenkins</h2>
+            <p><a class="img-fluid" href="http://jenkins-alex.westeurope.cloudapp.azure.com:8080" role="button"><img
+                        src="https://banner2.kisspng.com/20180527/lvp/kisspng-jenkins-continuous-integration-logo-software-testi-5b0a4072832390.7448584115273985145372.jpg"
+                        width="200" height="200"></a></p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
