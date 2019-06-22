@@ -8,9 +8,9 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon"
-        href="https://wiki.jenkins.io/download/attachments/2916393/headshot.png?version=1&modificationDate=1302753947000&api=v2">
+        href="https://alex-project-webapp.azurewebsites.net/WebApp">
 
-    <title>DevOps Project</title>
+    <title>Home</title>
 
     <link href="css/jumbotron.css" rel="stylesheet">
 
