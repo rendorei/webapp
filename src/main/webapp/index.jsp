@@ -8,9 +8,9 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon"
-        href="https://alex-project-webapp.azurewebsites.net/WebApp">
+        href="https://wiki.jenkins.io/download/attachments/2916393/headshot.png?version=1&modificationDate=1302753947000&api=v2">
 
-    <title>Home</title>
+    <title>DevOps Project</title>
 
     <link href="css/jumbotron.css" rel="stylesheet">
 
@@ -28,8 +28,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand"
-                    href="https://www.google.com/search?rlz=1C1SQJL_ruUA853UA853&ei=0IIOXdveKbH4qwGVrqDgAw&q=simple+ci%2Fcd+pipeline&oq=simple+ci%2F&gs_l=psy-ab.3.0.0i203l2j0i22i30l8.1502.6228..7675...3.0..0.177.1181.11j2......0....1..gws-wiz.......0i71j35i39j0j0i131j0i67.GSHR_ZwKgXs" target="_blank">Simple
-                    CI/CD pipeline</a>
+                    href="https://alex-project-webapp.azurewebsites.net/WebApp/" target="_blank">Home</a>
             </div>
         </div>
     </div>
