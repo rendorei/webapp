@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Jumbotron Template for Bootstrap</title>
+    <title>DevOps Project</title>
 
 
     <!-- Custom styles for this template -->
@@ -32,7 +32,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">Project name</a>
+            <a class="navbar-brand" href="https://www.google.com/search?rlz=1C1SQJL_ruUA853UA853&ei=0IIOXdveKbH4qwGVrqDgAw&q=simple+ci%2Fcd+pipeline&oq=simple+ci%2F&gs_l=psy-ab.3.0.0i203l2j0i22i30l8.1502.6228..7675...3.0..0.177.1181.11j2......0....1..gws-wiz.......0i71j35i39j0j0i131j0i67.GSHR_ZwKgXs">Simple CI/CD pipeline</a>
         </div>        
     </div>
 </div>
