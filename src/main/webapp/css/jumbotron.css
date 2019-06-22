@@ -3,5 +3,5 @@ body {
     padding-bottom: 20px;
 }
 .items-container{display: flex; justify-content: space-between; text-align: center;}
-.jumbotron{background: linear-gradient(#e66465, #9198e5);}
-.jumbotron h1 {color: #ffffff}
+.jumbotron{background: linear-gradient(#222222 0%, #ffffff 85%);}
+.jumbotron > h1 {color: #ffffff}
