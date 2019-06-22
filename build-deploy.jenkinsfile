@@ -1,6 +1,6 @@
 def tomcat_home = "/opt/tomcat"
 def git_repo = "https://github.com/elluvium/webapp.git"
-def war_home = "/home/jenkins/workspace/test_webapp_deploy/target"
+def war_home = "/home/jenkins/workspace/test_webapp_deploy"
 
 node('slave1'){
    stage ('Pull'){
