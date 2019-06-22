@@ -16,7 +16,7 @@ node('slave1'){
       
    ws("${war_home}"){
        stage ('Deploy to Azure WebApp'){
-       azureWebAppPublish appName: 'alex-project-webapp', azureCredentialsId: 'azure_service_principal', filePath: 'WebApp.war', publishType: 'file', resourceGroup: 'jenkins', slotName: '', sourceDirectory: 'target', targetDirectory: '${tomcat_home}/webapps'
+       azureWebAppPublish appName: 'alex-project-webapp', azureCredentialsId: 'azure_service_principal', filePath: 'WebApp.war', publishType: 'file', resourceGroup: 'jenkins', slotName: '', sourceDirectory: '/target', targetDirectory: '${tomcat_home}/webapps'
        }   
    }
 }
