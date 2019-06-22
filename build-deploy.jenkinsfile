@@ -2,7 +2,7 @@ def tomcat_home = "/opt/tomcat"
 def git_repo = "https://github.com/elluvium/webapp.git"
 def war_home = "/home/jenkins/workspace/test_webapp_deploy/target"
 
-node('master'){
+node('slave1'){
    stage ('Pull'){
        cleanWs()
        git "${git_repo}"
