@@ -6,6 +6,9 @@ def war_home = "workspace/webapp_project"
 
 node('slave1'){
    stage ('Pull'){
+       triggers { 
+            pollSCM('* * * * *')
+             }
        cleanWs()
        git "${git_repo}"
    }
