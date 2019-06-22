@@ -6,8 +6,7 @@
     <groupId>lu.amazon.aws.demo</groupId>
     <artifactId>WebApp</artifactId>
     <packaging>war</packaging>
-    <version>1.0-SNAPSHOT</version>
-    
+    <version>1.0-SNAPSHOT</version>    
     <name>WebApp Maven Webapp</name>
     <url>http://maven.apache.org</url>
     <dependencies>
@@ -19,9 +18,6 @@
     </dependency>
     </dependencies>
     <build>
-        <configuration>
-            <failOnMissingWebXml>false</failOnMissingWebXml>
-        </configuration>
         <finalName>WebApp</finalName>
     </build>
 </project>
