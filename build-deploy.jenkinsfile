@@ -1,13 +1,12 @@
 def tomcat_home = "/opt/tomcat"
 def git_repo = "https://github.com/rendorei/webapp.git"
 def war_home = "workspace/webapp_project"
-agent {
-    label 'master'
-}
-triggers { 
+
+
+node('slave1'){
+    triggers { 
             pollSCM('* * * * *')
              }
-node('slave1'){
    stage ('Pull'){
        cleanWs()
        git "${git_repo}"
