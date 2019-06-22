@@ -1,5 +1,6 @@
 def tomcat_home = "/opt/tomcat"
 def git_repo = "https://github.com/rendorei/webapp.git"
+def mvnTool = tool 'Maven_3_6_0'
 
 node('slave1'){
     stage ('Pull'){
@@ -7,9 +8,7 @@ node('slave1'){
        git "${git_repo}"
     }
     stage ('Build application'){
-       withMaven(maven: 'maven') {
-         sh "mvn clean package"
-       }
+       def mvnTool = tool 'Maven_3_3_9'
     }
    
    ws("${war_home}"){
