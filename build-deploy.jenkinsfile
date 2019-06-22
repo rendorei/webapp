@@ -1,4 +1,4 @@
-ef tomcat_home = "/opt/tomcat"
+def tomcat_home = "/opt/tomcat"
 def git_repo = "https://github.com/elluvium/webapp.git"
 
 node('master'){
