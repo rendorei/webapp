@@ -50,9 +50,10 @@
     <!-- Example row of columns -->
     <div class="row">
         <div class="col-md-4">
-            <h2>Heading</h2>
+            <h2>GitHub</h2>
             <p>Some TEXT</p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
+            <p><a class="btn btn-default" href="https://github.com/rendorei/webapp.git" role="button">Repository &raquo;</a></p>
         </div>
         <div class="col-md-4">
             <h2>Heading</h2>
@@ -61,7 +62,7 @@
         </div>
         <div class="col-md-4">
             <h2>Heading</h2>
-            <p>Some TEXT</p>
+            <p>Some TEXT</p>            
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
     </div>
