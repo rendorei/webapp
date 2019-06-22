@@ -3,7 +3,7 @@ def git_repo = "https://github.com/rendorei/webapp.git"
 
 node('slave1'){
     tools {
-        maven 'Maven_3.5.2' 
+        maven 'Maven_3.6.0' 
     }
     stage ('Pull'){
        cleanWs()
