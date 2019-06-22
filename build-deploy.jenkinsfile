@@ -8,12 +8,7 @@ node('slave1'){
    }
 
    stage ('Build application'){
-       withMaven(maven="maven-3.3.9", 
-       mavenSettingsConfig: 'my-maven-settings',
-           options: [
-               artifactsPublisher(disabled: true), 
-               findbugsPublisher(disabled: true), 
-               openTasksPublisher(disabled: true)]) {
+       withMaven(maven: 'maven') {
          sh "mvn clean package"
        }
    }
