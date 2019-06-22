@@ -1,6 +1,6 @@
 def tomcat_home = "/opt/tomcat"
 def git_repo = "https://github.com/rendorei/webapp.git"
-def mvnTool = tool 'Maven_3_6_0'
+def mvnTool = tool 'Maven 3.6.0'
 
 node('slave1'){
     stage ('Pull'){
