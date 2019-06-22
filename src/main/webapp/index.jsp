@@ -33,18 +33,7 @@
                 <span class="icon-bar"></span>
             </button>
             <a class="navbar-brand" href="#">Project name</a>
-        </div>
-        <div class="navbar-collapse collapse">
-            <form class="navbar-form navbar-right" role="form">
-                <div class="form-group">
-                    <input type="text" placeholder="Email" class="form-control">
-                </div>
-                <div class="form-group">
-                    <input type="password" placeholder="Password" class="form-control">
-                </div>
-                <button type="submit" class="btn btn-success">Sign in</button>
-            </form>
-        </div><!--/.navbar-collapse -->
+        </div>        
     </div>
 </div>
 
@@ -80,7 +69,7 @@
     <hr>
 
     <footer>
-        <p>&copy; Company 2014</p>
+        <p>&copy; Oleksandr Krainiuk</p>
     </footer>
 </div> <!-- /container -->
 
