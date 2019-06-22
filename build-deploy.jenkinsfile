@@ -2,9 +2,6 @@ def tomcat_home = "/opt/tomcat"
 def git_repo = "https://github.com/rendorei/webapp.git"
 
 node('slave1'){
-    tools {
-        maven 'Maven_3.6.0' 
-    }
     stage ('Pull'){
        cleanWs()
        git "${git_repo}"
