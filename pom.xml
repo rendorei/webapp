@@ -18,9 +18,9 @@
     </dependency>
     </dependencies>
     <build>
-    <configuration>
-                <failOnMissingWebXml>false</failOnMissingWebXml>
-            </configuration>
+    <properties>
+    <failOnMissingWebXml>false</failOnMissingWebXml>
+</properties>
         <finalName>WebApp</finalName>
     </build>
 </project>
