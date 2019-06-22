@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="../../favicon.ico">
+    <link rel="icon" href="https://banner2.kisspng.com/20180812/lpq/kisspng-jenkins-continuous-integration-build-automation-co-jenkins-user-conference-5b70208da68e06.9980136315340750216822.jpg">
 
     <title>DevOps Project</title>
 
