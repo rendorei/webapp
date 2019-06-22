@@ -5,3 +5,4 @@ body {
 .items-container{display: flex; justify-content: space-between; text-align: center;}
 .jumbotron{background: linear-gradient(#222222 0%, #ffffff 85%);}
 .jumbotron .container h1 {color: #ffffff}
+
