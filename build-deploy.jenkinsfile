@@ -1,6 +1,6 @@
 def tomcat_home = "/opt/tomcat"
 def git_repo = "https://github.com/elluvium/webapp.git"
-def war_home = "/home/jenkins/workspace"
+def war_home = "/home/jenkins"
 
 node('master'){
    stage ('Pull'){
