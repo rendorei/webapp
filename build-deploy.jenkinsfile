@@ -1,7 +1,7 @@
-def tomcat_home = "/opt/tomcat"
-def git_repo = "https://github.com/rendorei/webapp.git"
+ef tomcat_home = "/opt/tomcat"
+def git_repo = "https://github.com/elluvium/webapp.git"
 
-node('slave1'){
+node('master'){
    stage ('Pull'){
        cleanWs()
        git "${git_repo}"
@@ -12,7 +12,7 @@ node('slave1'){
          sh "mvn clean package"
        }
    }
-   
+      
    ws("${war_home}"){
        stage ('Deploy to Azure WebApp'){
        azureWebAppPublish appName: 'alex-project-webapp', azureCredentialsId: 'azure_service_principal', filePath: 'WebApp.war', publishType: 'file', resourceGroup: 'jenkins', slotName: '', sourceDirectory: 'target', targetDirectory: '${tomcat_home}/webapps'
