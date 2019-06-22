@@ -8,7 +8,7 @@ node('slave1'){
        git "${git_repo}"
     }
     stage ('Build application'){
-       def mvnTool = tool 'Maven_3_3_9'
+        sh "${mvnTool}/bin/mvn clean package"       
     }
    
    ws("${war_home}"){
