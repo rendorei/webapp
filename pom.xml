@@ -17,15 +17,7 @@
       <scope>test</scope>
     </dependency>    
     </dependencies>
-    <build>
-        <plugins>
-            <plugin>
-                <configuration>
-                    <failOnMissingWebXml>false</failOnMissingWebXml>
-                </configuration>
-            </plugin>
-        </plugins>
-    
+    <build>        
         <finalName>WebApp</finalName>
     </build>
 </project>
