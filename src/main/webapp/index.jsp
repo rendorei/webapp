@@ -46,13 +46,13 @@
     </div>
 </div>
 
-<div class="container">
+<div class="items-container">
     <!-- Example row of columns -->
     
         <div class="col-md-4">
             <h2>GitHub</h2>            
             <p><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="300" height="300"></p>
-            <p><a class="btn btn-default" href="https://github.com/rendorei/webapp.git" role="button"> &raquo;</a></p>
+            <p><a class="btn btn-default" href="https://github.com/rendorei/webapp.git" role="button">Repository &raquo;</a></p>
         </div>
         <div class="col-md-4">
             <h2>Heading</h2>
