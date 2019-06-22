@@ -40,8 +40,7 @@
 </div>
 
 <div class="items-container">
-    <!-- Example row of columns -->
-    
+    <!-- Example row of columns -->    
         <div class="col-md-4">
             <h2>GitHub</h2>            
             <p><a class="img-fluid" href="https://github.com/rendorei/webapp.git" role="button"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="200" height="200"> &raquo;</a></p>

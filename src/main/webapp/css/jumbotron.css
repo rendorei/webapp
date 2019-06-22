@@ -2,4 +2,4 @@ body {
     padding-top: 50px;
     padding-bottom: 20px;
 }
-.items-container{display: flex; justify-content: space-between;}
+.items-container{display: flex; justify-content: space-between; text-align: center;}
