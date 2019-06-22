@@ -55,13 +55,13 @@
             <h2>Jenkins</h2>
             <p><a class="img-fluid" href="http://jenkins-alex.westeurope.cloudapp.azure.com:8080" role="button"><img
                         src="https://xebialabs.com/wp-content/uploads/2018/10/Jenkins-x-logo-1.jpg"
-                        width="200" height="200"></a></p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+                        width="220" height="220"></a></p>
         </div>
         <div class="col-md-4">
-            <h2>Heading</h2>
-            <p>Some TEXT</p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            <h2>DevAzure</h2>
+            <p><a class="img-fluid" href="https://dev.azure.com/rendoreiops" role="button"><img
+                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTZ8BntngUMnLzTvXvvWp80eL4XslDNExlWj2gyKJR5SM8_hLr"
+                        width="200" height="200"></a></p>
 
         </div>
 
