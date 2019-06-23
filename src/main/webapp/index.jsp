@@ -53,7 +53,7 @@
             <h2>Jenkins</h2>
             <p><a class="img-fluid" href="http://jenkins-alex.westeurope.cloudapp.azure.com:8080" target="_blank"
                     role="button"><img src="https://wiki.jenkins.io/download/attachments/2916393/logo.png?version=1&modificationDate=1302753947000&api=v2"
-                        width="140" height="200"></a></p>
+                        width="150" height="200"></a></p>
         </div>
         <div class="col-md-4">
             <h2>DevAzure</h2>
