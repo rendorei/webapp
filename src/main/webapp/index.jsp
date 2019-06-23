@@ -53,7 +53,7 @@
         <div class="col-md-4">
             <h2>Jenkins</h2>
             <p><a class="img-fluid" href="http://jenkins-alex.westeurope.cloudapp.azure.com:8080" target="_blank"
-                    role="button"><img src="https://xebialabs.com/wp-content/uploads/2018/10/Jenkins-x-logo-1.jpg"
+                    role="button"><img src="https://wiki.jenkins.io/download/attachments/2916393/logo.png?version=1&modificationDate=1302753947000&api=v2"
                         width="220" height="220"></a></p>
         </div>
         <div class="col-md-4">
