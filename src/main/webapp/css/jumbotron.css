@@ -7,4 +7,4 @@ body {
 .jumbotron .container h1 {color: #ffffff}
 .jumbotron .container .btn.btn-primary.btn-lg {background-image: linear-gradient(to bottom,#e2e6ea 0,#636363 80%);}
 .jumbotron .container a.btn.btn-primary.btn-lg {background-image: linear-gradient(to top,#e2e6ea 0,#636363 80%);}
-
+.jumbotron .container a.btn-primary {border-color: #616060}
