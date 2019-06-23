@@ -27,7 +27,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                
+
             </div>
         </div>
     </div>
@@ -36,8 +36,14 @@
     <div class="jumbotron">
         <div class="container">
             <h1>Hello, World</h1>
-            <p><!-----></p>
-            <p><a class="btn btn-primary btn-lg" href="https://docs.google.com/presentation/d/15k94zxIowukgDzbISTBI6VN7ZfzskTUk4i4SO7yGUH0/edit?usp=sharing" target="_blank" role="button">Presentation &raquo;</a></p>
+            <p>
+                <!----->
+            </p>
+            <div>
+            <p><a class="btn btn-primary btn-lg"
+                    href="https://docs.google.com/presentation/d/15k94zxIowukgDzbISTBI6VN7ZfzskTUk4i4SO7yGUH0/edit?usp=sharing"
+                    target="_blank" role="button">Presentation &raquo;</a></p>
+                </div>
         </div>
     </div>
 
@@ -52,7 +58,8 @@
         <div class="col-md-4">
             <h2>Jenkins</h2>
             <p><a class="img-fluid" href="http://jenkins-alex.westeurope.cloudapp.azure.com:8080" target="_blank"
-                    role="button"><img src="https://wiki.jenkins.io/download/attachments/2916393/logo.png?version=1&modificationDate=1302753947000&api=v2"
+                    role="button"><img
+                        src="https://wiki.jenkins.io/download/attachments/2916393/logo.png?version=1&modificationDate=1302753947000&api=v2"
                         width="150" height="200"></a></p>
         </div>
         <div class="col-md-4">
