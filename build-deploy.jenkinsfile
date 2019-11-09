@@ -1,3 +1,5 @@
+#!groovy
+
 properties([disableConcurrentBuilds()])
 
 def tomcat_home = "/opt/tomcat"
